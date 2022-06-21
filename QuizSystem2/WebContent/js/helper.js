@@ -44,7 +44,7 @@ Version: 1.0.3
 Last updated on 19/05/2022, 04:30:51 UTC
 Author: Ching Hung Tan
 GitHub: chinghung2000
-GitHub repository: BIC21404DatabaseProject_QuizSystem
+GitHub repository: BIS20404Cryptography_Project_QuizSystem2
 Email: tanchinghung5098.1@gmail.com
 */
 
