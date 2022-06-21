@@ -1,8 +1,6 @@
 # BIS20404Cryptography_Project_QuizSystem2
 The project is a web-based quiz system for students and lecturers. The system can help to manage all quizzes, assessments and another entries like a college academic management system.
 
-
-
 **Tools and technologies used:**
 1. [Java SE Development Kit 18](https://www.oracle.com/java/technologies/downloads/)
 2. [MySQL Community](https://dev.mysql.com/downloads/installer/)
